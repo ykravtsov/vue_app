@@ -1,0 +1,14 @@
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\bin\Debug\netcoreapp2.1\vue_app.deps.json
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\bin\Debug\netcoreapp2.1\vue_app.runtimeconfig.json
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\bin\Debug\netcoreapp2.1\vue_app.runtimeconfig.dev.json
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\bin\Debug\netcoreapp2.1\vue_app.dll
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\bin\Debug\netcoreapp2.1\vue_app.pdb
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\obj\Debug\netcoreapp2.1\vue_app.csprojAssemblyReference.cache
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\obj\Debug\netcoreapp2.1\vue_app.csproj.CoreCompileInputs.cache
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\obj\Debug\netcoreapp2.1\vue_app.RazorAssemblyInfo.cache
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\obj\Debug\netcoreapp2.1\vue_app.RazorAssemblyInfo.cs
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\obj\Debug\netcoreapp2.1\vue_app.AssemblyInfoInputs.cache
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\obj\Debug\netcoreapp2.1\vue_app.AssemblyInfo.cs
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\obj\Debug\netcoreapp2.1\vue_app.RazorTargetAssemblyInfo.cache
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\obj\Debug\netcoreapp2.1\vue_app.dll
+C:\Users\ykrav\Documents\DotNetPlayground\vue_app\obj\Debug\netcoreapp2.1\vue_app.pdb

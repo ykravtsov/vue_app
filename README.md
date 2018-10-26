@@ -1,26 +1,4 @@
-# vue_app
-
-## Project setup
+## vue_app
 ```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
+ASP.NET Core API with Vue CLI 3 front end
 ```
